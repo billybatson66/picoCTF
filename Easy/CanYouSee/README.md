@@ -17,7 +17,7 @@ file unknown.zip
 ```
 
 <p align ="center">
-    <img src= "../assets/CanYouSee/step1.png" />
+    <img src= "../CanYouSee/assets/step1.png" />
 </p>
 
 It's a normal zip file so we just decompress it like normal 
@@ -27,7 +27,7 @@ unzip unknown.zip
 ```
 
 <p align ="center">
-    <img src= "../assets/CanYouSee/step2.png" />
+    <img src= "../CanYouSee/assets/step2.png" />
 </p>
 
 We get a .jpg image, we'll view it to see if its worthwhile:
@@ -37,7 +37,7 @@ eog ukn_reality.jpg
 ```
 
 <p align ="center">
-    <img src= "../assets/CanYouSee/step3.png" />
+    <img src= "../CanYouSee/assets/step3.png" />
 </p>
 
 
@@ -48,7 +48,7 @@ exiftool extract
 ```
 
 <p align ="center">
-    <img src= "../assets/CanYouSee/step4.png" />
+    <img src= "../CanYouSee/assets/step4.png" />
 </p>
 
 
@@ -59,7 +59,7 @@ echo "YWNhZGVteXtNRTc0RDQ3QV9ISUREM05fYWViZThjMGZ9Cg==" | base64 -d > flag.txt
 ```
 
 <p align ="center">
-    <img src= "../assets/CanYouSee/step5.png" />
+    <img src= "../CanYouSee/assets/step5.png" />
 </p>
 
 
