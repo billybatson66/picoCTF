@@ -17,7 +17,7 @@ file file
 ```
 
 <p align ="center">
-    <img src= "../assets/Corrupted file/step1.png" />
+    <img src= "../Corrupted file/assets/step1.png" />
 </p>
 
 It's an unknown file so we'll check the bytes of its header:
@@ -27,7 +27,7 @@ xxd file
 ```
 
 <p align ="center">
-    <img src= "../assets/Corrupted file/step2.png" />
+    <img src= "../Corrupted file/assets/step2.png" />
 </p>
 
 We see that it's a JPEG image in JFIF format, but the hex signature of the header is broken, it's supposed to be `FF D8 FF E0` instead, so we'll open up vim to edit the broken hex signature:
@@ -40,7 +40,7 @@ vim -b file
 Shift + R to enable replace mode, go to the header and replace the first 2 bytes with JPEG (JFIF) hex signature. After doing that we'll revert back and save the file.
 
 <p align ="center">
-    <img src= "../assets/Corrupted file/step3.png" />
+    <img src= "../Corrupted file/assets/step3.png" />
 </p>
 
 ```bash
@@ -55,7 +55,7 @@ eog file
 ```
 
 <p align ="center">
-    <img src= "../assets/CanYouSee/step4.png" />
+    <img src= "../Corrupted file/assets/step4.png" />
 </p>
 
 
