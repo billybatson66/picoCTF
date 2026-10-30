@@ -1,0 +1,31 @@
+Wed Nov 12 2025 03:01:17    12288 macb d/drwx------ 0        0        11       /lost+found
+                             1024 macb d/drwxr-xr-x 0        0        13       /proc
+                             1024 .a.b d/drwxrwxrwt 0        0        14       /tmp
+                             1024 .a.b d/drwxr-xr-x 0        0        15       /lib
+                             3072 ...b d/drwxr-xr-x 0        0        32385    /etc
+                             1024 macb d/drwxr-xr-x 0        0        64769    /boot
+                             1024 macb d/drwxr-xr-x 0        0        64770    /home
+                             1024 macb d/drwxr-xr-x 0        0        64772    /dev
+                             1024 .a.b d/drwxr-xr-x 0        0        64773    /var
+Wed Nov 12 2025 03:01:18     1024 macb d/drwxr-xr-x 0        0        170      /mnt
+                             1024 macb d/drwxr-xr-x 0        0        171      /opt
+                             1024 ...b d/drwx------ 0        0        172      /root
+                             1024 m.cb d/drwxr-xr-x 0        0        173      /run
+                             1024 macb d/drwxr-xr-x 0        0        174      /sys
+                             4096 .a.b d/drwxr-xr-x 0        0        22       /bin
+                             5120 .a.b d/drwxr-xr-x 0        0        24       /sbin
+                             1024 m.cb d/drwxr-xr-x 0        0        64778    /usr
+                             1024 macb d/drwxr-xr-x 0        0        64948    /media
+                             1024 macb d/drwxr-xr-x 0        0        64952    /srv
+Wed Nov 12 2025 03:01:21     1024 m.c. d/drwxr-xr-x 0        0        15       /lib
+Wed Nov 12 2025 03:01:25     5120 m.c. d/drwxr-xr-x 0        0        24       /sbin
+Wed Nov 12 2025 03:01:28     1024 .a.. d/drwxr-xr-x 0        0        64778    /usr
+Wed Nov 12 2025 03:01:32     1024 m.c. d/drwxrwxrwt 0        0        14       /tmp
+Tue Dec 02 2025 04:41:31     1024 .a.. d/drwxr-xr-x 0        0        173      /run
+                             1024 m.c. d/drwxr-xr-x 0        0        64773    /var
+                             1024 macb d/drwxr-xr-x 0        0        65275    /swap
+Tue Dec 02 2025 04:41:44     3072 .a.. d/drwxr-xr-x 0        0        32385    /etc
+Tue Dec 02 2025 04:42:05     4096 m.c. d/drwxr-xr-x 0        0        22       /bin
+Tue Dec 02 2025 04:50:07     3072 m.c. d/drwxr-xr-x 0        0        32385    /etc
+Tue Dec 02 2025 04:50:19     1024 .a.. d/drwx------ 0        0        172      /root
+Tue Dec 02 2025 04:50:23     1024 m.c. d/drwx------ 0        0        172      /root
